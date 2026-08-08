@@ -36,4 +36,4 @@ Secure **Backblaze Flow** cloud storage solution with automatic backup, file syn
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
